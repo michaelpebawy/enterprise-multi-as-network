@@ -10,7 +10,6 @@ The project focuses on designing, configuring and testing a multi-autonomous sys
 **Institution:** EC Utbildning  
 **Tool:** Cisco Packet Tracer
 
-## Network Topology
 
 ## Network Topology
 
