@@ -17,7 +17,7 @@ The project focuses on designing, configuring and testing a multi-autonomous sys
 The diagram below shows the overall network architecture,
 including the four autonomous systems and their connections.
 
-![Network Topology](network-topology.png)
+![Network Topology](https://github.com/michaelpebawy/enterprise-multi-as-network/blob/main/network-topology.png.png)
 
 ## Network Architecture
 
