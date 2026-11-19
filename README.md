@@ -12,6 +12,11 @@ The project focuses on designing, configuring and testing a multi-autonomous sys
 
 ## Network Topology
 
+## Network Topology
+
+The diagram below shows the overall network architecture,
+including the four autonomous systems and their connections.
+
 ![Network Topology](network-topology.png)
 
 ## Network Architecture
